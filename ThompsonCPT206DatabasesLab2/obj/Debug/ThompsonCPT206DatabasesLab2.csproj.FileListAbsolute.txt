@@ -1,0 +1,13 @@
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\bin\Debug\City.mdf
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\bin\Debug\City_log.ldf
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\bin\Debug\ThompsonCPT206DatabasesLab2.exe.config
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\bin\Debug\ThompsonCPT206DatabasesLab2.exe
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\bin\Debug\ThompsonCPT206DatabasesLab2.pdb
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.csproj.AssemblyReference.cache
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.Form1.resources
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.Properties.Resources.resources
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.csproj.GenerateResource.cache
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.csproj.CoreCompileInputs.cache
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.exe
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.pdb
+D:\Advanced C# Work\ThompsonCPT206DatabasesLab2\obj\Debug\ThompsonCPT206DatabasesLab2.CityDetailsForm.resources
