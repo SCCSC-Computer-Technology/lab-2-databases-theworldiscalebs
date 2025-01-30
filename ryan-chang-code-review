@@ -1,0 +1,5 @@
+After cloning and running the Windows Form application I found no errors upon compliation of the application. However I did run into a couple of errors on the CityDetailsForm part of the application. 
+Whenever I clicked on the Show Details button it automatically shows the details of the City with the ID of 1. I think it would be nice from a user point of view whenever Show Details is cilcked that it shows the details of the city that is currently being clicked on the main report from the home page.
+I do also get an error whenever I try to use the top arrow buttons on the top of the screen to try and show details for another city whenever I make an edit to one of the text fields. I think that if something is changed there may need to be a way to stop users from clicking the arrows. However if there is nothing that has been edited
+then the application does work as intended. Overall this application works great and is very easy to understand. 
+Taking a look into the backend of the application I feel like the code is very well written and there isn't really any rendunancies. Overall a very very good job!
