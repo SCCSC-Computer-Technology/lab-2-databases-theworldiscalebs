@@ -1,0 +1,25 @@
+Caleb’s Form design of the database has 8 buttons that connects the database of:
+•	Show Details
+•	ASC Population
+•	DESC Population
+•	Sort by City
+•	Total Population of all Cities
+•	Average Population of all Cities
+•	Highest Population of all Cities
+•	Lowest Population of all Cities
+Then you have your “Exit” button underneath the rest. However, the text of “City Population” has an extra “o” in “Population”. 
+File name was partially met titling, “ThompsonCPT206DatabaseLab2”; which I greatly appreciate the separation title assignments. 
+However, it should have been titiled “CThompson-Lab-2” like the course addendum showed at the very last page when submitting the assignment [highlighted in yellow].
+
+The code, inside the Form design, is neat with variables being with the assigned buttons, some show a message box for certain buttons, and comments 
+about what each button is used for is shown. To the second part is the “CityDetails”, the code form includes an “Exit” button but no comment is shown for the 
+purpose for it. The design, of “CityDetails”, shows a short window form with four labels and four textboxes across from the labels and an “Exit” button underneath them.
+
+Upon running the programming every single button work amazing, I especially like the “highest” and “lowest” buttons because not only it shows the highest and lowest 
+numbers but, also shows which city and/or specifically has the highest or lowest. Additionally, once I clicked on the “Exit” button 
+the message said “Thank you for using the population program database have a good day :)”. [Add 1 point for additional message]
+
+Overall, the program of my fellow classmate Caleb Thompson shows a complete assignment with a smooth transition of two Windows forms of the database 
+with one holding the database while the details form holds the details from the database itself. Comparing his program to mine shows that I still need to learn 
+and also remove extra, accidentally databases in my program and need to add an “Exit” button on my “Details” window. Additionally, showed me to not panic so 
+quickly to submit quickly; starting ahead would be wise when doing the assignment on my part.
